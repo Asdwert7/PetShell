@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using LilyFS;
 
 namespace SabaSaba.Builtins
 {
@@ -6,11 +8,24 @@ namespace SabaSaba.Builtins
     {
         public int Execute(IReadOnlyList<string> args)
         {
-            Console.WriteLine("Команда-заглушка: cd");
-            if (args.Count > 0)
-                Console.WriteLine("Аргументы: " + string.Join(", ", args));
-            else
-                Console.WriteLine("Аргументы: (нет)");
+            if (!VfsManager.IsReady)
+            {
+                Console.WriteLine("cd: VFS не инициализирована (используйте vfs-init)");
+                return 2;
+            }
+
+            string path = args.Count == 0 ? "~" : args[0]; // без аргументов → домашний (~ → /home)
+            if (args.Count > 1)
+            {
+                Console.WriteLine("Usage: cd [path]");
+                return 2;
+            }
+
+            if (!VfsManager.ChangeDir(path, out var err))
+            {
+                Console.WriteLine(err);
+                return 2;
+            }
             return 0;
         }
     }
