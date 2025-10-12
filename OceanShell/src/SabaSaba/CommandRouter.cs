@@ -16,14 +16,16 @@ namespace SabaSaba
 
             ICommand? cmd = name switch
             {
-                "exit"     => new Exit(),
-                "ls"       => new Ls(),
-                "cd"       => new Cd(),
-                "pwd"      => new Pwd(),
-                "date"     => new DateCmd(),
-                "cal"      => new Cal(),
+                "exit" => new Exit(),
+                "ls" => new Ls(),
+                "cd" => new Cd(),
+                "pwd" => new Pwd(),
+                "date" => new DateCmd(),
+                "cal" => new Cal(),
                 "vfs-init" => new VfsInit(),
-                _          => null
+                "rm"       => new Rm(),
+                "rmdir"    => new Rmdir(),
+                _ => null
             };
 
             if (cmd == null)
