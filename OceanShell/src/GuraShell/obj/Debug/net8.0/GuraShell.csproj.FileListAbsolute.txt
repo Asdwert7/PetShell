@@ -24,3 +24,4 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/bin/Debug/net8.0/AquaParse.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/bin/Debug/net8.0/LilyFS.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/bin/Debug/net8.0/RuiSys.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/obj/Debug/net8.0/GuraShell.sourcelink.json

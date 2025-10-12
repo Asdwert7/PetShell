@@ -9,3 +9,4 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/refint/LilyFS.dll
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/ref/LilyFS.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.sourcelink.json

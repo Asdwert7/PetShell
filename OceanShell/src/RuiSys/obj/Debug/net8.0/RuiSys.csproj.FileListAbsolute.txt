@@ -9,3 +9,4 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/refint/RuiSys.dll
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/ref/RuiSys.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.sourcelink.json

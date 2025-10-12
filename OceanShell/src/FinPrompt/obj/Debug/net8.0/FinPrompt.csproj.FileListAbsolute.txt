@@ -13,3 +13,4 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/bin/Debug/net8.0/RuiSys.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.csproj.AssemblyReference.cache
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.csproj.Up2Date
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.sourcelink.json

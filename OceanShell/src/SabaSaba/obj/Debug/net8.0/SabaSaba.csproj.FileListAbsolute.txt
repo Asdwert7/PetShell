@@ -17,3 +17,4 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/bin/Debug/net8.0/RuiSys.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/obj/Debug/net8.0/SabaSaba.csproj.AssemblyReference.cache
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/obj/Debug/net8.0/SabaSaba.csproj.Up2Date
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/obj/Debug/net8.0/SabaSaba.sourcelink.json

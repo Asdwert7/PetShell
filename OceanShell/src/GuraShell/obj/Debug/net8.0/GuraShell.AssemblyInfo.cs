@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GURASHELL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86216c3a65ec29b2f2a817888a0db04cf21e9f6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff05e7934bf40e1148d9e3bccb87c7c6bae1467e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GURASHELL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GURASHELL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
