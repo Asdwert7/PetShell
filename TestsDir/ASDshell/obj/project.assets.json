@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "/Users/asdwertinc/.nuget/packages/": {}
@@ -13,25 +13,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asdwertinc/Developer/ShellEmu/ShellEmu.csproj",
-      "projectName": "ShellEmu",
-      "projectPath": "/Users/asdwertinc/Developer/ShellEmu/ShellEmu.csproj",
+      "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/ASDshell.csproj",
+      "projectName": "ASDshell",
+      "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/ASDshell.csproj",
       "packagesPath": "/Users/asdwertinc/.nuget/packages/",
-      "outputPath": "/Users/asdwertinc/Developer/ShellEmu/obj/",
+      "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -61,6 +61,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

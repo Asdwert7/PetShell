@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ShellEmu")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ASDshell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ShellEmu")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ShellEmu")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86216c3a65ec29b2f2a817888a0db04cf21e9f6c")]
+[assembly: System.Reflection.AssemblyProductAttribute("ASDshell")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ASDshell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
