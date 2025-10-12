@@ -1,0 +1,456 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj": {}
+  },
+  "projects": {
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj",
+        "projectName": "AquaParse",
+        "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj",
+        "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+        "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj",
+        "projectName": "FinPrompt",
+        "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj",
+        "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+        "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj",
+        "projectName": "GURASHELL",
+        "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj",
+        "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+        "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj"
+              },
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj"
+              },
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/LilyFS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/LilyFS.csproj",
+        "projectName": "LilyFS",
+        "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/LilyFS.csproj",
+        "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+        "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj",
+        "projectName": "RuiSys",
+        "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj",
+        "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+        "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj",
+        "projectName": "SabaSaba",
+        "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj",
+        "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+        "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj"
+              },
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/LilyFS.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/LilyFS.csproj"
+              },
+              "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj": {
+                "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/RuiSys.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

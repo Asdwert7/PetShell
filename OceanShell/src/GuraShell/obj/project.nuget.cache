@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JGn4OopiuIg=",
+  "success": true,
+  "projectFilePath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj",
+  "expectedPackageFiles": [
+    "/Users/asdwertinc/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/asdwertinc/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/asdwertinc/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

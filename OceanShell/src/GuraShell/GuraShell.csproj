@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SabaSaba\SabaSaba.csproj" />
+    <ProjectReference Include="..\FinPrompt\FinPrompt.csproj" />
+    <ProjectReference Include="..\AquaParse\AquaParse.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>GURASHELL</AssemblyName>
+    <RootNamespace>GuraShell</RootNamespace>
+  </PropertyGroup>
+
+</Project>

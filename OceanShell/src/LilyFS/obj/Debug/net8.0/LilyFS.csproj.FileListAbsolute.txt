@@ -1,0 +1,11 @@
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/bin/Debug/net8.0/LilyFS.deps.json
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/bin/Debug/net8.0/LilyFS.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/bin/Debug/net8.0/LilyFS.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.AssemblyInfoInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.AssemblyInfo.cs
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.csproj.CoreCompileInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/refint/LilyFS.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/LilyFS.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/LilyFS/obj/Debug/net8.0/ref/LilyFS.dll
