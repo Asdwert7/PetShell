@@ -1,0 +1,4 @@
+/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/obj/Debug/net8.0/ASDshell.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/obj/Debug/net8.0/ASDshell.AssemblyInfoInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/obj/Debug/net8.0/ASDshell.AssemblyInfo.cs
+/Users/asdwertinc/Developer/PetTerminalCS/TestsDir/ASDshell/obj/Debug/net8.0/ASDshell.csproj.CoreCompileInputs.cache

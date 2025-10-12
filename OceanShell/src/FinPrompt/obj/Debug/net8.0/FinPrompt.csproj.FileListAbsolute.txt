@@ -1,0 +1,16 @@
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/bin/Debug/net8.0/FinPrompt.deps.json
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/bin/Debug/net8.0/FinPrompt.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/bin/Debug/net8.0/FinPrompt.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.AssemblyInfoInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.AssemblyInfo.cs
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.csproj.CoreCompileInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/refint/FinPrompt.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/ref/FinPrompt.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/bin/Debug/net8.0/RuiSys.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/bin/Debug/net8.0/RuiSys.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.csproj.AssemblyReference.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.csproj.Up2Date
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/obj/Debug/net8.0/FinPrompt.sourcelink.json

@@ -1,0 +1,22 @@
+{
+  "type": "dir",
+  "name": "/",
+  "children": [
+    {
+      "type": "file",
+      "name": "config.txt",
+      "content": "Q29uZmlnIGZpbGU="
+    },
+    {
+      "type": "dir",
+      "name": "data",
+      "children": [
+        {
+          "type": "file",
+          "name": "numbers.bin",
+          "content": "MTIzNDU2"
+        }
+      ]
+    }
+  ]
+}

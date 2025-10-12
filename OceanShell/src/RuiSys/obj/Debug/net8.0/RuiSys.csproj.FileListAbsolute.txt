@@ -1,0 +1,12 @@
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/bin/Debug/net8.0/RuiSys.deps.json
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/bin/Debug/net8.0/RuiSys.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/bin/Debug/net8.0/RuiSys.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.AssemblyInfoInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.AssemblyInfo.cs
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.csproj.CoreCompileInputs.cache
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/refint/RuiSys.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.pdb
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/ref/RuiSys.dll
+/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.sourcelink.json

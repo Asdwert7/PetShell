@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AquaParse/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AquaParse.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AquaParse.dll": {}
+        }
+      },
+      "FinPrompt/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RuiSys": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FinPrompt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinPrompt.dll": {}
+        }
+      },
+      "LilyFS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LilyFS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LilyFS.dll": {}
+        }
+      },
+      "RuiSys/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RuiSys.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RuiSys.dll": {}
+        }
+      },
+      "SabaSaba/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AquaParse": "1.0.0",
+          "LilyFS": "1.0.0",
+          "RuiSys": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SabaSaba.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SabaSaba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AquaParse/1.0.0": {
+      "type": "project",
+      "path": "../AquaParse/AquaParse.csproj",
+      "msbuildProject": "../AquaParse/AquaParse.csproj"
+    },
+    "FinPrompt/1.0.0": {
+      "type": "project",
+      "path": "../FinPrompt/FinPrompt.csproj",
+      "msbuildProject": "../FinPrompt/FinPrompt.csproj"
+    },
+    "LilyFS/1.0.0": {
+      "type": "project",
+      "path": "../LilyFS/LilyFS.csproj",
+      "msbuildProject": "../LilyFS/LilyFS.csproj"
+    },
+    "RuiSys/1.0.0": {
+      "type": "project",
+      "path": "../RuiSys/RuiSys.csproj",
+      "msbuildProject": "../RuiSys/RuiSys.csproj"
+    },
+    "SabaSaba/1.0.0": {
+      "type": "project",
+      "path": "../SabaSaba/SabaSaba.csproj",
+      "msbuildProject": "../SabaSaba/SabaSaba.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AquaParse >= 1.0.0",
+      "FinPrompt >= 1.0.0",
+      "SabaSaba >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/asdwertinc/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj",
+      "projectName": "GURASHELL",
+      "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/GuraShell.csproj",
+      "packagesPath": "/Users/asdwertinc/.nuget/packages/",
+      "outputPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/GuraShell/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/asdwertinc/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj": {
+              "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/AquaParse.csproj"
+            },
+            "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj": {
+              "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/FinPrompt/FinPrompt.csproj"
+            },
+            "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj": {
+              "projectPath": "/Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/SabaSaba/SabaSaba.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GURASHELL/1.0.0": {
+        "dependencies": {
+          "AquaParse": "1.0.0",
+          "FinPrompt": "1.0.0",
+          "SabaSaba": "1.0.0"
+        },
+        "runtime": {
+          "GURASHELL.dll": {}
+        }
+      },
+      "AquaParse/1.0.0": {
+        "runtime": {
+          "AquaParse.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FinPrompt/1.0.0": {
+        "dependencies": {
+          "RuiSys": "1.0.0"
+        },
+        "runtime": {
+          "FinPrompt.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LilyFS/1.0.0": {
+        "runtime": {
+          "LilyFS.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RuiSys/1.0.0": {
+        "runtime": {
+          "RuiSys.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SabaSaba/1.0.0": {
+        "dependencies": {
+          "AquaParse": "1.0.0",
+          "LilyFS": "1.0.0",
+          "RuiSys": "1.0.0"
+        },
+        "runtime": {
+          "SabaSaba.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GURASHELL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AquaParse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinPrompt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LilyFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RuiSys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SabaSaba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
