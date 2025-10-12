@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RuiSys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff05e7934bf40e1148d9e3bccb87c7c6bae1467e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8fbe7de708f625a10bd183d7f12620d11be094")]
 [assembly: System.Reflection.AssemblyProductAttribute("RuiSys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RuiSys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,33 @@
+{
+  "type": "dir",
+  "name": "/",
+  "children": [
+    {
+      "type": "dir",
+      "name": "home",
+      "children": [
+        {
+          "type": "file",
+          "name": "readme.txt",
+          "content": "SGVsbG8gZnJvbSBWZnMh" 
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "etc",
+      "children": [
+        {
+          "type": "file",
+          "name": "config.ini",
+          "content": "W0FwcF0KdmVyc2lvbj0xLjAK" 
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "welcome.txt",
+      "content": "V2VsY29tZSB0byBHdXJhU2hlbGwh"
+    }
+  ]
+}

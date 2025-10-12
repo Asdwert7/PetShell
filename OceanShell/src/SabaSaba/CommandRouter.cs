@@ -19,9 +19,10 @@ namespace SabaSaba
             ICommand? cmd = name switch
             {
                 "exit" => new Exit(),
-                "ls"   => new Ls(),
-                "cd"   => new Cd(),
-                _      => null
+                "ls" => new Ls(),
+                "cd" => new Cd(),
+                "vfs-init" => new VfsInit(),
+                _ => null
             };
 
             if (cmd == null)

@@ -1,0 +1,23 @@
+{
+  "type": "dir",
+  "name": "/",
+  "children": [
+    {
+      "type": "dir",
+      "name": "level1",
+      "children": [
+        {
+          "type": "dir",
+          "name": "level2",
+          "children": [
+            {
+              "type": "file",
+              "name": "note.txt",
+              "content": "ZGVlcCBsZXZlbCBmaWxl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
