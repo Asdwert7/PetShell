@@ -200,7 +200,7 @@ dotnet run --project src/GuraShell -- --vfs-path /tmp/ocean-vfs --script scripts
 
 ## 🪸 Автор и идея
 
-**Разработка:** ASDINC (Александр П.)  
+**Разработка:** ASDINC ()  
 **Идея и стиль:** 🌊 GuraShell / OceanShell / SabaSaba / LilyFS / RuiSys / FinPrompt  
 
 > _“Command the tides. The shell is your ocean.”_
