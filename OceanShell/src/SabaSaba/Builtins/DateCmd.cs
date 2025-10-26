@@ -9,7 +9,6 @@ namespace SabaSaba.Builtins
         public int Execute(IReadOnlyList<string> args)
         {
             // Простейший вывод: локальные дата и время
-            // Можно добавить формат: date "+yyyy-MM-dd HH:mm:ss"
             if (args.Count == 0)
             {
                 Console.WriteLine(DateTime.Now.ToString("ddd MMM dd HH:mm:ss yyyy", CultureInfo.InvariantCulture));

@@ -12,6 +12,7 @@ namespace SabaSaba.Builtins
             if (!VfsManager.IsReady)
             {
                 Console.WriteLine("ls: VFS не инициализирована (используйте vfs-init)");
+                Console.WriteLine($"ls {args}");
                 return 2;
             }
 

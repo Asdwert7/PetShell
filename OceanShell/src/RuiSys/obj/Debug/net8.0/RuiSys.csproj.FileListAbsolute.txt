@@ -10,3 +10,15 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/ref/RuiSys.dll
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/RuiSys/obj/Debug/net8.0/RuiSys.sourcelink.json
+X:\PetTerminalCS\OceanShell\src\RuiSys\bin\Debug\net8.0\RuiSys.deps.json
+X:\PetTerminalCS\OceanShell\src\RuiSys\bin\Debug\net8.0\RuiSys.dll
+X:\PetTerminalCS\OceanShell\src\RuiSys\bin\Debug\net8.0\RuiSys.pdb
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.GeneratedMSBuildEditorConfig.editorconfig
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.AssemblyInfoInputs.cache
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.AssemblyInfo.cs
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.csproj.CoreCompileInputs.cache
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.sourcelink.json
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.dll
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\refint\RuiSys.dll
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\RuiSys.pdb
+X:\PetTerminalCS\OceanShell\src\RuiSys\obj\Debug\net8.0\ref\RuiSys.dll

@@ -6,7 +6,6 @@ namespace SabaSaba.Builtins
     {
         public int Execute(IReadOnlyList<string> args)
         {
-            // Позже можно обрабатывать exit <code>
             int code = 0;
             if (args.Count > 0 && int.TryParse(args[0], out int parsed))
                 code = parsed;
