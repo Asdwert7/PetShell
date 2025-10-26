@@ -10,3 +10,15 @@
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/obj/Debug/net8.0/AquaParse.pdb
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/obj/Debug/net8.0/ref/AquaParse.dll
 /Users/asdwertinc/Developer/PetTerminalCS/OceanShell/src/AquaParse/obj/Debug/net8.0/AquaParse.sourcelink.json
+X:\PetTerminalCS\OceanShell\src\AquaParse\bin\Debug\net8.0\AquaParse.deps.json
+X:\PetTerminalCS\OceanShell\src\AquaParse\bin\Debug\net8.0\AquaParse.dll
+X:\PetTerminalCS\OceanShell\src\AquaParse\bin\Debug\net8.0\AquaParse.pdb
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.GeneratedMSBuildEditorConfig.editorconfig
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.AssemblyInfoInputs.cache
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.AssemblyInfo.cs
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.csproj.CoreCompileInputs.cache
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.sourcelink.json
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.dll
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\refint\AquaParse.dll
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\AquaParse.pdb
+X:\PetTerminalCS\OceanShell\src\AquaParse\obj\Debug\net8.0\ref\AquaParse.dll
